@@ -6,7 +6,7 @@
 ### Wordle
 
 ### N-Back Training
-#### ![Google Play](https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
+#### [Google Play](https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
 
 #### Tech stack
 - Jetpack Compose
