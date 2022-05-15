@@ -1,16 +1,16 @@
 # KIM SEONGJU
 
 1년 차 안드로이드 개발자 김성주입니다.
-## Introduce
+# Introduce
 
 
-# My recent projects
+# My Recent Projects
 ## Wordle
 
 ## N-Back Training
 ### [Google Play](https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
 
-### Tech stack
+### Tech Stack
 - Jetpack Compose
 - MVVM
 - Clean Architecture
@@ -19,8 +19,8 @@
 - Flow
 
 ## Bible In You
-### Tech stack
+### Tech Stack
 - RxJava
 - MVVM
 
-# My tech stack
+# My Tech Stack
