@@ -4,13 +4,13 @@
 ## Introduce
 
 
-## My recent projects
-### Wordle
+# My recent projects
+## Wordle
 
-### N-Back Training
-#### [Google Play](https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
+## N-Back Training
+### [Google Play](https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
 
-#### Tech stack
+### Tech stack
 - Jetpack Compose
 - MVVM
 - Clean Architecture
@@ -18,9 +18,9 @@
 - LiveData
 - Flow
 
-### Bible In You
-#### Tech stack
+## Bible In You
+### Tech stack
 - RxJava
 - MVVM
 
-## My tech stack
+# My tech stack
