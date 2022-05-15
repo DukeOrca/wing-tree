@@ -9,8 +9,8 @@
 ## Wordle
 
 ## N-Back Training
-
-__[Google Play]__(https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
+[_**Github**_](https://github.com/wing-tree/n-back-training)
+[_**Google Play**_](https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
 
 ### Tech Stack
 - Jetpack Compose
