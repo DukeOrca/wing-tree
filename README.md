@@ -1,6 +1,8 @@
 # KIM SEONGJU
 
 1년 차 안드로이드 개발자 김성주입니다.
+## Introduce
+
 
 ## My recent projects
 ### Wordle
