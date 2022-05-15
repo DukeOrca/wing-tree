@@ -9,7 +9,7 @@
 ## Wordle
 
 ## N-Back Training
-
+![image](https://github.com/wing-tree/wing-tree/blob/master/image/graphic_image_en.png)
 [_**Github**_](https://github.com/wing-tree/n-back-training)</br>
 [_**Google Play**_](https://play.google.com/store/apps/details?id=com.wing.tree.n.back.training)
 
