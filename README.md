@@ -6,7 +6,9 @@
 보다 간결하고 아름다운 코드를 지향합니다.
 
 # My Recent Projects
-## Wordle
+## Wordle (In progress)
+워들 게임 앱을 개발하고 있습니다.<br>
+현재 진행 중인 프로젝트입니다.
 
 ## N-Back Training
 <img src="https://github.com/wing-tree/wing-tree/blob/master/image/graphic_image_en.png" alt="image" width="512"/><br>
