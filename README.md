@@ -25,6 +25,7 @@
 - Flow
 
 ## Bible In You
+![image](https://github.com/wing-tree/wing-tree/blob/master/image/graphic_image_bible_in_you.png)
 ### Tech Stack
 - RxJava
 - MVVM
