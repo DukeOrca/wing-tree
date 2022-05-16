@@ -22,8 +22,8 @@
 - MVVM
 
 ## Bible In You
-![image](https://github.com/wing-tree/wing-tree/blob/master/image/graphic_image_bible_in_you.png)
-[_**Github**_](https://github.com/wing-tree/bible-lock-screen)</br>
+![image](https://github.com/wing-tree/wing-tree/blob/master/image/graphic_image_bible_in_you.png)<br>
+[_**Github**_](https://github.com/wing-tree/bible-lock-screen)<br>
 [_**Google Play**_](https://play.google.com/store/apps/details?id=com.duke.orca.android.kotlin.biblelockscreen)
 ### Tech Stack
 - Firebase (Crashlytics)
